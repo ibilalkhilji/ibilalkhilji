@@ -1,7 +1,7 @@
 ###  Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="20" width="25">I'm Bilal.
 #### I’m a web developer living in India. I am a fan of technology, programming, and web development. I’m also interested in movies and design. 
 ## 💫 About Me:
-🔭 I’m currently working on eCommerce Grocery Store<br>🌱 I’m currently learning React Native<br>💬 Ask me about PHP, Laravel, MySQL<br>👨‍💻 All of my projects are available at khaleejinfotech.com<br>📫 How to reach me kbinfo4u@gmail.com<br>⚡ Fun fact I think I am funny
+🔭 I’m currently working on eCommerce Grocery Store<br>🌱 I’m currently learning React Native<br>💬 Ask me about PHP, Laravel, MySQL<br>👨‍💻 All of my projects are available at ibilalkhilji.in<br>📫 How to reach me kbinfo4u@gmail.com<br>⚡ Fun fact I think I am funny
 
 
 ## 🌐 Socials:
@@ -20,7 +20,7 @@
 Hey, I am a Back-End Developer!
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [khaleejinfotech.com](https://khaleejinfotech.com)
+* 🖥️  See my portfolio at [ibilalkhilji.in](https://ibilalkhilji.in)
 * ✉️  You can contact me at [kbinfo4u@gmail.com](mailto:kbinfo4u@gmail.com)
 * 🧠  I'm learning web everyday!
 * ⚡  I am a tech nerd 👨‍💻🤓
