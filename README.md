@@ -1,7 +1,66 @@
-###  Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="20" width="25">I'm Bilal.
-#### I’m a web developer living in India. I am a fan of technology, programming, and web development. I’m also interested in movies and design. 
-## 💫 About Me:
-🔭 I’m currently working on eCommerce Grocery Store<br>🌱 I’m currently learning React Native<br>💬 Ask me about PHP, Laravel, MySQL<br>👨‍💻 All of my projects are available at [ibilalkhilji.in](https://ibilalkhilji.in)<br>📫 How to reach me kbinfo4u@gmail.com<br>⚡ Fun fact I think I am funny
+# Hi 👋 I'm Bilal Khilji
+
+### Founder @ KHALEEJ Infotech • Laravel Developer • SaaS Builder
+
+I'm a software developer from India with **12+ years of experience** building scalable web applications, SaaS products, and AI-powered business solutions. I enjoy creating software that helps businesses automate workflows and grow efficiently.
+
+---
+
+## 🚀 Currently Building
+
+- 💬 CloudBox — AI-powered WhatsApp Business Platform
+- 🤖 FlairaAI — AI Social Media Management Platform
+- 💼 Finara — Modern Invoicing & Accounting Software
+
+---
+
+## 💻 What I Do
+
+- Laravel & PHP Development
+- SaaS Product Development
+- AI Integrations (OpenAI, VAPI)
+- WhatsApp Business API
+- REST API Development
+- Business Process Automation
+- Multi-Tenant Applications
+- API Integrations & Payment Gateways
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+`Laravel` • `PHP` • `MySQL` • `SQLite`
+
+### Frontend
+`JavaScript` • `jQuery` • `Bootstrap` • `HTML5` • `CSS3`
+
+### Tools & Services
+`Git` • `Composer` • `Postman` • `Cloudflare` • `Firebase`
+
+### AI & APIs
+`OpenAI API` • `VAPI` • `WhatsApp Business API` • `REST APIs`
+
+---
+
+## 🌱 Currently Learning
+
+- AI Agents
+- Voice AI
+- Advanced Prompt Engineering
+- Scalable SaaS Architecture
+
+---
+
+## 📫 Connect With Me
+
+🌐 Portfolio: https://ibilalkhilji.in
+
+💼 LinkedIn: https://linkedin.com/in/ibilalkhilji
+
+📧 Email: kbinfo4u@gmail.com
+
+---
 
 
 ## 🌐 Socials:
@@ -14,8 +73,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ibilalkhilji&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibilalkhilji&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!--
 Hey, I am a Back-End Developer!
 
